@@ -7,10 +7,10 @@
 <body>
 
 <<<<<<< HEAD
-    <h1>master bransinda deyisiklik etdim</h1>
+    <h1>Test2</h1>
 =======
-    <h1>nijat-dev bransinda deyisiklik etdim</h1>
->>>>>>> ebc656f (Adding new text by branch name)
+    <h1>Test1</h1>
+>>>>>>> 2f3bb59 (test1 commit was added)
 
     
     <p>This is a paragraph of text.</p>
